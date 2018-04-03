@@ -10,5 +10,5 @@ function theBeatlesPlay(musicians, instruments) {
 const johnFacts = ["He had just one son", "His wife is still making art", "He wore glasses that would be considered silly nowadays", "He was raised by his aunt Mimi"]
 
 function johnLennonFacts(array) {
-  var
+  var superJohnFacts = []
 }
