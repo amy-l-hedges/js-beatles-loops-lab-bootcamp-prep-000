@@ -9,11 +9,11 @@ function theBeatlesPlay(musicians, instruments) {
 
 const johnFacts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He hated the sound of his own voice"]
 
-function johnLennonFacts(array) {
+function johnLennonFacts() {
   var superJohnFacts = []
   var i = 0
   while (i > johnFacts.length) {
-    superJohnFacts.push(johnFacts[i] + "!!! ")
+    superJohnFacts.push(johnFacts[i] + "!!!")
     i++
   }
   return superJohnFacts
