@@ -20,10 +20,9 @@ function johnLennonFacts() {
 }
 
 function iLoveTheBeatles(num) {
-  var thisMuch = []
+  var thisMuch = ["I Love the Beatles!"]
   var counter = 0
   do {
-    thisMuch.push("I Love the Beatles!")
     counter++
   } while (counter < (num + 1))
   return thisMuch
