@@ -13,6 +13,8 @@ function johnLennonFacts(array) {
   var superJohnFacts = []
   var i = 0
   while (i > johnFacts.length) {
-    superJohnFacts.push(johnFacts[i]) 
+    superJohnFacts.push(johnFacts[i] + "!!! "
+    i++
   }
+  return superJohnFacts
 }
