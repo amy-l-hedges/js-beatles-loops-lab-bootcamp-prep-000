@@ -25,6 +25,6 @@ function iLoveTheBeatles(num) {
   do {
     thisMuch.push("I Love the Beatles!")
     counter++
-  } while (counter < (num + 2))
+  } while (counter < (num + 1))
   return thisMuch
 }
