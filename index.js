@@ -24,6 +24,6 @@ function iLoveTheBeatles(num) {
   do {
     thisMuch.push("I Love the Beatles!")
     num++
-  } while (num < )
+  } while (thisMuch.length < )
   return thisMuch
 }
