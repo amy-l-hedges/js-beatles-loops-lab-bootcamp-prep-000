@@ -19,11 +19,11 @@ function johnLennonFacts() {
   return superJohnFacts
 }
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   var thisMuch = []
   do {
     thisMuch.push("I Love the Beatles!")
     num++
-  } while (num < 16)
+  } while (num < )
   return thisMuch
 }
