@@ -21,9 +21,10 @@ function johnLennonFacts() {
 
 function iLoveTheBeatles(num) {
   var thisMuch = []
+  var counter = 0
   do {
     thisMuch.push("I Love the Beatles!")
-    num++
-  } while (thisMuch.length < )
+    counter++
+  } while (counter < (num + 2))
   return thisMuch
 }
