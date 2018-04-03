@@ -23,7 +23,7 @@ function iLoveTheBeatles(num) {
   var thisMuch = []
   do {
     thisMuch.push("I Love the Beatles!")
-    num--
-  } while (num >= 0)
+    num++
+  } while (num < 15)
   return thisMuch
 }
