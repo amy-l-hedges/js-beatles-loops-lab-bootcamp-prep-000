@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   return clauses
 }
 
-const johnFacts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He wore glasses that would be considered silly nowadays", "He was raised by his aunt Mimi"]
+const johnFacts = ["He was the last Beatle to learn to drive", "He was never a vegetarian", "He was a choir boy and boy scout", "He was raised by his aunt Mimi"]
 
 function johnLennonFacts(array) {
   var superJohnFacts = []
