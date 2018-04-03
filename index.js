@@ -11,8 +11,8 @@ const johnFacts = ["He was the last Beatle to learn to drive", "He was never a v
 
 function johnLennonFacts() {
   var superJohnFacts = []
-  var i = 1
-  while (i > johnFacts.length) {
+  var i = 0
+  while (i < johnFacts.length) {
     superJohnFacts.push(johnFacts[i] + "!!!")
     i++
   }
