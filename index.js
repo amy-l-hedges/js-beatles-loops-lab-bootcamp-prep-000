@@ -11,4 +11,6 @@ const johnFacts = ["He had just one son", "His wife is still making art", "He wo
 
 function johnLennonFacts(array) {
   var superJohnFacts = []
+  var i = 0
+  while 
 }
