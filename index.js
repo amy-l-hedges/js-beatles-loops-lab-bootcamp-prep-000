@@ -21,7 +21,7 @@ function johnLennonFacts(array) {
 function iLoveTheBeatles(num) {
   var thisMuch = []
   do {
-    thisMuch.push("I Love the Beatles!")
+    thisMuch.push("I love the Beatles!")
     num++
   } while (num < 15)
   return thisMuch
